@@ -37,3 +37,15 @@ cd ignite-desafio1-1
 ```bash
 code .
 ```
+
+4. Instalar as dependências:
+
+```bash
+yarn
+```
+
+5. Rodar o servidor:
+
+```bash
+yarn dev
+```
